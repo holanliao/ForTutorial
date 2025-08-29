@@ -1,3 +1,4 @@
+// 請修正程式碼，來輸出正確的 10! 。
 #include<stdio.h>
 int main(){
 	int product = 0;
@@ -10,3 +11,4 @@ int main(){
 	printf("product = %d\n", product);
 	return 0;
 }
+
