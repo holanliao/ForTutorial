@@ -6,8 +6,9 @@ int main(void){
 	fflush(stdin);
 	scanf("%d", & longInt);
 
-	printf("¦r¤¸ %c\n", ch);
-	printf("ªø¾ã¼Æ %d\n", longInt);
+	printf("å­—å…ƒç‚º %c\n", ch);
+	printf("å¸¸æ•´æ•¸ç‚º %ld\n", longInt);
 
 	return 0;
 }
+
